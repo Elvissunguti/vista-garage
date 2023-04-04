@@ -52,7 +52,7 @@ const Hero = () => {
 
          {/*Hero */}
          <div
-      className="h-screen bg-cover bg-center relative"
+      className="h-full bg-cover bg-center relative"
       style={{ backgroundImage: `url(${backgroundImages[currentImageIndex]})` }}
     >
       <button

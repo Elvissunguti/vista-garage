@@ -27,7 +27,7 @@ const AutoShop = () => {
                     MECHANICAL, AUTO BODY, PAINT & COLLISION SERVICES
                     </h2>
                     <p className="font-semibold md:w-[70%] mx-auto xl:text-lg text-center">
-                     At RDB LA Each single vehicle is treated with special care and attention to detail.
+                     At Vista Garage Each single vehicle is treated with special care and attention to detail.
                      <br></br>
                      We only use the best material available in the market, and we specialize in high quality auto work.
                      <br></br>
