@@ -57,7 +57,7 @@ const Contacts = () => {
                 </div>
                 <form className="text-center mb-10 md:w-[70%] space-y-5 mx-auto">
                 
-                <h2 className="font-bold mb-4 text-xl">YOU CAN ALSO CONTACT US HERE:</h2>
+                <h2 className="font-bold mb-4 md:text-2xl sm:text-xl">YOU CAN ALSO CONTACT US HERE:</h2>
                 <label className="block">
                     <input type="text" placeholder="Name" className="outline-none sm:w-full border py-3 px-2 md:w-2/3 bg-gray-100 " />
                 </label>
