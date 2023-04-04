@@ -29,7 +29,7 @@ const Brake = () => {
                 </div>
                 <div>
                     <h2 className="font-bold text-2xl xl:text-3xl my-6">SERVICE OVERVIEW</h2>
-                    <p>Friendly, expert brake repair service from Homeboys Auto Garage. Your safety is our number one priority and your braking system is the single most important safety feature on your car or truck. For this reason, it’s very important that you bring your vehicle in for service if you’re experiencing problems with your braking system.Common signs that your vehicle is in need of service can include:</p>
+                    <p>Friendly, expert brake repair service from Vista Garage. Your safety is our number one priority and your braking system is the single most important safety feature on your car or truck. For this reason, it’s very important that you bring your vehicle in for service if you’re experiencing problems with your braking system.Common signs that your vehicle is in need of service can include:</p>
                     <ol className="list-decimal list-inside my -4 px-4">
                         <li>A squealing or grinding sound when your brakes are applied</li>
                         <li>A pulsating sensation when you step on the brakes</li>

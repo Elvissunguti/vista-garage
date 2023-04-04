@@ -26,7 +26,7 @@ const CarWash = () => {
                 <div>
                     <h2 className="font-bold mt-10 text-2xl xl:text-3xl">SERVICE OVERVIEW</h2>
                     <p>
-                    Personally a good wash of your body feels nice, same way a perfect wash of your car feels awesome. Homeboys Auto Garage provides that perfect wash according to customer needs.
+                    Personally a good wash of your body feels nice, same way a perfect wash of your car feels awesome. Vista Garage provides that perfect wash according to customer needs.
                     <br></br><br></br>
                     While you relax in our waiting room, we will do a full body wash, interior wash, engine wash, under wash, car polish and vacuum cleanup.
                     </p>

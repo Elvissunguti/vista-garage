@@ -29,7 +29,7 @@ const AirCondition = () => {
                 <div>
                     <h2 className="my-6 font-bold text-2xl xl:text-3xl">SERVICE OVERVIEW</h2>
                     <p>
-                    Keep your car comfortable at any temperature with Homeboys Auto Garage. If you are experiencing temperature discomfort, our technicians are equipped to diagnose climate control issues and repair both air conditioning and heater systems on a wide range of car makes and models.
+                    Keep your car comfortable at any temperature with Vista Garage. If you are experiencing temperature discomfort, our technicians are equipped to diagnose climate control issues and repair both air conditioning and heater systems on a wide range of car makes and models.
                      <br></br><br></br>
                     Regular maintenance and attention to your vehicle’s heating and cooling system will prevent the drying out and cracking of A/C components and leaky valves or blockages to your heater. We take the time to make sure your car’s heating and cooling system is performing as expected and won’t send you on your way till we can guarantee system performance and consistent climate control – that’s our promise
                     </p>

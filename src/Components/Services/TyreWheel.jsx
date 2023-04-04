@@ -30,11 +30,11 @@ const TyreWheel = () => {
             <div>
                 <h2 className="font-bold text-2xl xl:text-3xl my-6">SERVICE OVERVIEW</h2>
                 <p>
-                Stop by Homeboys for quick tire repair and replacement. Offering fast tire repair services and quality new and used tires, we have what it takes to get the job done and get you back on the road quickly.
+                Stop by Vista garage for quick tire repair and replacement. Offering fast tire repair services and quality new and used tires, we have what it takes to get the job done and get you back on the road quickly.
                 <br></br><br></br>
                 From the latest in new tire technology to fixing a flat tire, our team will take care of your car quickly, without costing a small fortune.
                 <br></br><br></br>
-                Whether you’re looking for new off-road tires or used tires or need to fix a slow tire leak, Homeboys can help!
+                Whether you’re looking for new off-road tires or used tires or need to fix a slow tire leak, Vista can help!
                 </p>
             </div>
             <div className="flex flex-col lg:flex-row mt-6 gap-5">

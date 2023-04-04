@@ -27,9 +27,9 @@ const OilFilters = () => {
                 <div>
                     <h2 className="font-bold text-2xl xl:text-3xl my-6">SERVICE OVERVIEW</h2>
                     <p>
-                    Go beyond the basics with Oil changes from Homeboys! A critical auto maintenance measure, regular oil changes help extend the life and health of your engine. Whether your vehicle requires an oil change every 5,000 kilometers or every 10,000 kilometers, Homeboys Auto Garage is here for you.
+                    Go beyond the basics with Oil changes from Homeboys! A critical auto maintenance measure, regular oil changes help extend the life and health of your engine. Whether your vehicle requires an oil change every 5,000 kilometers or every 10,000 kilometers, Vista Garage is here for you.
                      <br></br><br></br>
-                    Don’t ignore the oil change mileage marker! Over time, oil begins to breakdown and wear out, making it less effective at lubricating your engine and transferring heat – that’s where potential problems can arise. Stay on top of things with Homeboys Auto Garage, where our experienced technicians perform high quality oil changes fast.
+                    Don’t ignore the oil change mileage marker! Over time, oil begins to breakdown and wear out, making it less effective at lubricating your engine and transferring heat – that’s where potential problems can arise. Stay on top of things with Vista Garage, where our experienced technicians perform high quality oil changes fast.
                     </p>
                 </div>
                 <div className="flex flex-col lg:flex-row mt-6 gap-5">
