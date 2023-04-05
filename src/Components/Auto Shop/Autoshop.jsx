@@ -48,33 +48,38 @@ const AutoShop = () => {
 
             </div>
             </div>
-            <form className="mb-10 text-center md:w-[70%] space-y-5 mx-auto mt-10 max-w-5xl px-2 xl:px-0 xl:max-w-7xl">
+
+            <form className="text-center mb-10 md:w-[70%] mt-4 space-y-5 mx-auto h-full">
                 
-                <h2 className="font-bold mb-4">YOU CAN ALSO CONTACT US HERE:</h2>
+                <h2 className="font-bold mb-4 md:text-2xl sm:text-xl">YOU CAN ALSO CONTACT US HERE:</h2>
+
+                <div className="flex flex-col lg:flex-row gap-5">
+                <div className="lg:w-1/2">
                 <label className="block">
-                    <input type="text" placeholder="Name" className="outline-none sm:w-full border py-3 px-2 md:w-2/3 bg-gray-100" />
+                    <input type="text" placeholder="Name" className="outline-none sm:w-full border py-3 px-2  bg-gray-100 " />
                 </label>
-                <label className="block">
-                    <input type="email" placeholder="Email" className="outline-none sm:w-full border py-3 px-2 md:w-2/3 bg-gray-100 " />
+                <label className="block mt-4">
+                    <input type="email" placeholder="Email" className="outline-none sm:w-full border py-3 px-2  bg-gray-100 " />
                 </label>
-                <label className="block">
-                    <input type="tel"  placeholder="Phone number" className="outline-none sm:w-full border py-3 px-2 md:w-2/3 bg-gray-100" />
+                <label className="block mt-4">
+                    <input type="tel"  placeholder="Phone number" className="outline-none sm:w-full border py-3 px-2  bg-gray-100" />
                 </label>
+                </div>
+                <div className="lg:w-1/2 h-full">
                 <label className="block">
                     <textarea type="text"  placeholder="Comments"
-                    rows={window.screen.width > 768 ? "4" : "3"}
-                    className="outline-none border p-2 rounded sm:w-full md:w-2/3 bg-gray-100" />
+                    rows={window.screen.width > 768 ? "7" : "3"}
+                    className="outline-none border sm:w-full p-2 rounded  bg-gray-100" />
                 </label>
+                </div>
+                </div>
                 <label>
                     <input
                     type="submit" value="SEND"
-                    className="bg-blue-400 outline-none border p-2 rounded cursor-pointer hover:bg-green-400 hover:text-white" />
+                    className="bg-blue-400 mt-4 outline-none border text-lg px-2 py-3 rounded cursor-pointer hover:bg-green-400 hover:text-white text-bold" />
                 </label>
-            
-             
 
             </form>
-
         </section>
     )
 
