@@ -48,7 +48,7 @@ const Nav = () => {
             </Link>
             <ul className={`flex flex-col items-center absolute ${
                 active ? `top-[4rem]` : `top-[-450%]`
-                } duration-500 w-full pb-4 space-y-3 md:flex-row md:pb-0 md:space-y-0 md:pb-0 md:relative md:w-max md-top-0 lg:space-x-8`}>
+                } duration-500 w-full pb-4 bg-white space-y-3 md:flex-row md:pb-0 md:space-y-0 md:pb-0 md:relative md:w-max md-top-0 lg:space-x-8`}>
                 {navLinks.map((navLink, i) => (
                     <li key={i}
                     className={`xl:text-xl ${
