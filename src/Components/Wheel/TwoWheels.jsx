@@ -28,7 +28,7 @@ const TwoWheels = () => {
                 </div>
                 <div className="lg:w-1/2">
                     <img src={two}  alt="" 
-                    className="h-64 object-cover rounded-lg md:h-96 lg:w-1/2 xl:h-[450px] w-full"/>
+                    className="h-64 object-cover rounded-lg md:h-96  xl:h-[450px] w-full"/>
                 </div>
             </div>
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 mb-16">

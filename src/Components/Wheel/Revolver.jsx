@@ -32,7 +32,7 @@ const Revolver = () => {
                     </div>
 
                 </div>
-                <div className="grid grid-cols-2 gap-1 md:grid-cols-3 lg:grid-cols-4">
+                <div className="grid grid-cols-2 gap-2 md:grid-cols-3 lg:grid-cols-4">
                     {revolverimg.map((item, i) => (
                         
                             <img key={i} src={item.image} alt=""
