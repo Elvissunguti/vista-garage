@@ -23,10 +23,10 @@ function App() {
       <Suspense fallback={<div>Site Loading...</div>}>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/Services" element={<Services />} />
-          <Route path= "/vista wheels" element={<Wheels />} />
-          <Route path='/Auto Shop' element={<AutoShop />} />
-          <Route path='/Customization' element={<Customization/>} />
+          <Route path="/services" element={<Services />} />
+          <Route path= "/vista_wheels" element={<Wheels />} />
+          <Route path='/auto_shop' element={<AutoShop />} />
+          <Route path='/customization' element={<Customization/>} />
 
           <Route path="/engine diagnostics" element={<Engine />} />
           <Route path="/tyre wheel" element={<TyreWheel />} />
@@ -35,9 +35,7 @@ function App() {
           <Route path="/belts and hoses" element={<Belts />} />
           <Route path="/lube oil filters" element={<OilFilters />} />
           <Route path="/car wash" element={<CarWash />} />
-
-
-          <Route path="/contact us" element={<Contacts />} />
+          <Route path="/contact_us" element={<Contacts />} />
         </Routes>
 
       </Suspense>

@@ -54,7 +54,7 @@ const Belts = () => {
                         <h2 className="font-bold text-2xl">POPULAR QUESTIONS</h2>
                        <div>
                        {question.map((panel, index) => (
-        <div className="panel" key={index}>
+          <div className="panel" key={index}>
           <div className={`panel-header ${openIndex === index ? 'open' : ''}`} onClick={() => handlePanelClick(index)}>
             {panel.title}
           </div>
